@@ -1,0 +1,2 @@
+spring.application.name=complete-springboot-sample
+server.port=8080
